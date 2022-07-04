@@ -2,7 +2,7 @@
 - 👀 I’m interested in AI, Full Stack Development and Blockchain
 - 🌱 I’m currently learning Information Technology
 - 💞️ I’m looking to collaborate on many projects based on AI or Blockchain
-- 📫 How to reach me hassansamo66@gmail.com
+- 📫 How to reach me hassansamo609@gmail.com
 
 <!---
 hassansamo/hassansamo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
