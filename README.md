@@ -21,7 +21,7 @@ Nice to meet you! My name is Hassan and I am a **Front-end developer**. Currentl
 ## My Stats
 [![Hassan's GitHub stats](https://github-readme-stats.vercel.app/api?username=hassansamo&count_private=true&show_icons=true&theme=discord_old_blurple)](https://github.com/hassansamo/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hassansamo&langs_count=9&layout=compact)](https://github.com/hassansamo/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hassansamo&langs_count=9&layout=compact&theme=discord_old_blurple)](https://github.com/hassansamo/github-readme-stats)
 
 ##  Let's connect :speech_balloon:
 [![Twitter Badge](https://img.shields.io/badge/-@HassanSamo9-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/HassanSamo9)](https://twitter.com/HassanSamo9) 
