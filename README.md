@@ -1,10 +1,3 @@
-- 👋 Hi, I’m @hassansamo
-- 👀 I’m interested in AI, Full Stack Development and Blockchain
-- 🌱 I’m currently learning Information Technology
-- 💞️ I’m looking to collaborate on many projects based on AI or Blockchain
-- 📫 How to reach me hassansamo609@gmail.com
+# Hey, I'm Jonathan 👋
 
-<!---
-hassansamo/hassansamo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+[![Twitter Badge](https://img.shields.io/badge/-@JonathanGin52-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/jonathangin52)](https://twitter.com/jonathangin52) [![Linkedin Badge](https://img.shields.io/badge/-JonathanGin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jonathangin/)](https://www.linkedin.com/in/jonathangin/)
