@@ -22,3 +22,7 @@ Nice to meet you! My name is Hassan. I'm currently studying BS in Information Te
 [![Twitter Badge](https://img.shields.io/badge/-@HassanSamo9-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/HassanSamo9)](https://twitter.com/HassanSamo9) 
 [![Gmail Badge](https://img.shields.io/badge/-hassansamo609-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:hassansamo609@gmail.com)](mailto:hassansamo609@gmail.com) 
 [![Instagram Badge](https://img.shields.io/badge/-@hassan_sam0-e4405f?style=flat-square&labelColor=f94877&logo=instagram&logoColor=white&link=https://www.instagram.com/hassan_sam0/)](https://www.instagram.com/hassan_sam0/)
+
+## My Stats
+[![Hassan's GitHub stats](https://github-readme-stats.vercel.app/api?username=hassansamo&count_private=true&show_icons=true&theme=discord_old_blurple)](https://github.com/hassansamo/github-readme-stats)
+
