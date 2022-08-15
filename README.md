@@ -18,11 +18,12 @@ Nice to meet you! My name is Hassan. I'm currently studying BS in Information Te
 <!-- <a src="https://nodejs.org/"><img src="https://img.icons8.com/color/48/000000/nodejs.png"/></a> -->
 <!-- <a src="https://www.mongodb.com/"><img src="https://img.icons8.com/color/48/000000/mongodb.png"/></a> -->
 
+## My Stats
+[![Hassan's GitHub stats](https://github-readme-stats.vercel.app/api?username=hassansamo&count_private=true&show_icons=true&theme=discord_old_blurple)](https://github.com/hassansamo/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hassansamo&langs_count=9&layout=compact)](https://github.com/hassansamo/github-readme-stats)
+
 ##  Let's connect :speech_balloon:
 [![Twitter Badge](https://img.shields.io/badge/-@HassanSamo9-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/HassanSamo9)](https://twitter.com/HassanSamo9) 
 [![Gmail Badge](https://img.shields.io/badge/-hassansamo609-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:hassansamo609@gmail.com)](mailto:hassansamo609@gmail.com) 
 [![Instagram Badge](https://img.shields.io/badge/-@hassan_sam0-e4405f?style=flat-square&labelColor=f94877&logo=instagram&logoColor=white&link=https://www.instagram.com/hassan_sam0/)](https://www.instagram.com/hassan_sam0/)
-
-## My Stats
-[![Hassan's GitHub stats](https://github-readme-stats.vercel.app/api?username=hassansamo&count_private=true&show_icons=true&theme=discord_old_blurple)](https://github.com/hassansamo/github-readme-stats)
-
