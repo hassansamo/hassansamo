@@ -3,7 +3,7 @@
 [![Linkedin Badge](https://img.shields.io/badge/-HassanSamo-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/hassan-samo/)](https://www.linkedin.com/in/hassan-samo/)
 [![GitHub Badge](https://img.shields.io/badge/-HassanSamo-100000?style=for-the-badge&logo=github&logoColor=white&link=https://github.com/hassansamo/)](https://github.com/hassansamo)
 
-Nice to meet you! My name is Hassan and I am a **Front-end developer**. Currently studying BS in Information Technology. Passionate about Web Development, AI & Blockchain. Also, have some experience in building and optimizing user-focused, accessible and fully responsive websites. Right now learning backend development to pursue my aim of being a **Full Stack Developer**
+It's great to meet you! I am Hassan, a passionate *Front-end Developer* currently pursuing a Bachelor's degree in **Information Technology**. My passion lies in **Web Development**, with a strong interest in AI and Blockchain. I have honed my skills in building **user-centered**, **accessible**, and **fully responsive** websites. I am dedicated to furthering my education and am currently delving into **Backend Development** with the aim of becoming a **Full Stack Developer**.
 
 ## Technologies
 
