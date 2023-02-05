@@ -7,7 +7,7 @@ It's great to meet you! I am Hassan, a passionate *Front-end Developer* currentl
 
 ## Technologies
 
-<a src="https://www.w3schools.com/html/"><img src="https://img.icons8.com/color/48/000000/html-5.png"/></a>
+<img src="https://img.icons8.com/color/48/000000/html-5.png"/>
 <a src="https://www.w3schools.com/css/"><img src="https://img.icons8.com/color/48/000000/css3.png"/></a>
 <a src="https://sass-lang.com/"><img src="https://img.icons8.com/color/48/000000/sass.png"/></a>
 <a src="https://getbootstrap.com/"><img src="https://img.icons8.com/color/48/000000/bootstrap.png"/></a>
