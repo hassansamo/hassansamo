@@ -3,7 +3,7 @@
 [![Linkedin Badge](https://img.shields.io/badge/-HassanSamo-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/hassan-samo/)](https://www.linkedin.com/in/hassan-samo/)
 [![GitHub Badge](https://img.shields.io/badge/-HassanSamo-100000?style=for-the-badge&logo=github&logoColor=white&link=https://github.com/hassansamo/)](https://github.com/hassansamo)
 
-It's great to meet you! I am Hassan, a passionate *Front-end Developer* and an **IT graduate**. My passion lies in **Web Development**, with a strong interest in AI and Blockchain. I have honed my skills in building **user-centered**, **accessible**, and **fully responsive** websites. I am dedicated to furthering my education and am currently delving into *Backend Development* with the aim of becoming a **Full Stack Developer**.
+It's great to meet you! I am Hassan, a passionate *FullStack Developer* and an **IT graduate**. My passion lies in **Software Development**, with a growing interest in AI. I have honed my skills in building **user-centered**, **accessible**, and **fully responsive** websites.
 
 ## Technologies
 
@@ -21,9 +21,6 @@ It's great to meet you! I am Hassan, a passionate *Front-end Developer* and an *
 <span><img src="https://img.icons8.com/?size=48&id=fAMVO_fuoOuC&format=png&color=000000"/></span>
 <span><img src="https://img.icons8.com/color/48/000000/mysql.png"/></span>
 <span><img src="https://img.icons8.com/?size=48&id=lRjcvhvtR81o&format=png&color=000000"/></span>
-
-<!-- <a src="https://reactjs.org/"><img src="https://img.icons8.com/color/48/000000/react-native.png"/></a> -->
-<!-- <a src="https://www.mongodb.com/"><img src="https://img.icons8.com/color/48/000000/mongodb.png"/></a> -->
 
 ## My Stats
 [![Hassan's GitHub stats](https://github-readme-stats.vercel.app/api?username=hassansamo&count_private=true&show_icons=true&theme=discord_old_blurple)](https://github.com/hassansamo/github-readme-stats)
