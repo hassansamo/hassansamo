@@ -18,7 +18,7 @@ It's great to meet you! I am Hassan, a passionate *Front-end Developer* and an *
 <span><img src="https://img.icons8.com/?size=48&id=PZQVBAxaueDJ&format=png&color=000000"/></span>
 <span><img src="https://img.icons8.com/color/48/000000/github--v1.png"/></span>
 <span><img src="https://img.icons8.com/color/48/000000/python.png"/></span>
-<span><img src="https://img.icons8.com/color/48/000000/php.png"/></span>
+<span><img src="https://img.icons8.com/?size=48&id=fAMVO_fuoOuC&format=png&color=000000"/></span>
 <span><img src="https://img.icons8.com/color/48/000000/mysql.png"/></span>
 <span><img src="https://img.icons8.com/?size=48&id=lRjcvhvtR81o&format=png&color=000000"/></span>
 
