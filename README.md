@@ -15,11 +15,12 @@ It's great to meet you! I am Hassan, a passionate *Front-end Developer* and an *
 <span><img src="https://img.icons8.com/ios-filled/48/78CFF5/jquery.png"/></span>
 <span><img src="https://img.icons8.com/color/48/000000/nodejs.png"/></span>
 <span><img src="https://img.icons8.com/color/48/000000/npm.png"/></span>
-<span><img src="https://img.icons8.com/color/48/000000/express-js.png"/></span>
+<span><img src="https://img.icons8.com/?size=100&id=PZQVBAxaueDJ&format=png&color=000000"/></span>
 <span><img src="https://img.icons8.com/color/48/000000/github--v1.png"/></span>
 <span><img src="https://img.icons8.com/color/48/000000/python.png"/></span>
 <span><img src="https://img.icons8.com/color/48/000000/php.png"/></span>
 <span><img src="https://img.icons8.com/color/48/000000/mysql.png"/></span>
+<span><img src="https://img.icons8.com/?size=100&id=lRjcvhvtR81o&format=png&color=000000"/></span>
 
 <!-- <a src="https://reactjs.org/"><img src="https://img.icons8.com/color/48/000000/react-native.png"/></a> -->
 <!-- <a src="https://www.mongodb.com/"><img src="https://img.icons8.com/color/48/000000/mongodb.png"/></a> -->
